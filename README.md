@@ -12,4 +12,12 @@
 
 ---
 ### Things I code with
- 
+
+<p align="left">
+  <a href="http://avaloniaui.net/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/6f9a9537c12cccd375436a59df526f5ecaa46c42/Resources/avalonia.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://go.dev/">
+    <img src="https://github.com/YunWZ/YunWZ/blob/1cd4f894a626f02cb1d1971380966dfce32cc9e1/svg/dev/languages/go.svg" alt="Golang" style="vertical-align:top; margin:4px">
+  </a>
+</p>
